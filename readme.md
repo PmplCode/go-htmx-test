@@ -12,12 +12,12 @@ This project utilizes Go to create a basic web server that serves HTML templates
 
 Make sure you have Go installed on your system.
 
-### Clone the Repository
+### Clone the Repository and run
 
 Clone this repository using the following command:
 
 ```bash
-git clone <[repository_url](https://github.com/PmplCode/go-htmx-test.git)>
+git clone https://github.com/PmplCode/go-htmx-test.git
 # then
 go run main.go
 ````
